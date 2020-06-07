@@ -1,9 +1,9 @@
-<h3 align="center">
+<div alignItens="" align="center">
     <img alt="Logo" title="#logo" width="210px" src="assets/logo.svg">
     <img alt="Logo" title="#logo" width="300px" src="assets/home-background.svg">
     <br><br>
     <b>Recycle! help the environment!</b> 
-</h3>
+</div>
 
 # Índice
 
