@@ -1,9 +1,11 @@
-<div alignItens="" align="center">
-    <img alt="Logo" title="#logo" width="210px" src="assets/logo.svg">
-    <img alt="Logo" title="#logo" width="300px" src="assets/home-background.svg">
-    <br><br>
-    <b>Recycle! help the environment!</b> 
+<div align="center">
+
+  ![Logo](./assets/logo.svg)
+  ![Ecoleta](./assets/home-background.svg)
+  ### Recycle! help the environment!
 </div>
+
+---
 
 # Índice
 
@@ -52,7 +54,7 @@ This application was built on the <strong> Booster </strong> track of <strong> N
   $ git clone https://github.com/leo-schlanger/ecoleta.git
 ```
 
-1. Running the Application:
+2. Running the Application:
 
 ```bash
   # Go to the backend directory
