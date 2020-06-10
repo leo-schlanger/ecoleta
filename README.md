@@ -112,7 +112,7 @@ After the merge of your pull request is done, you can delete your branch.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](./LICENSE.md) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/leo-schlanger/ecoleta/blob/master/LICENSE) for more information.
 
 ---
 
